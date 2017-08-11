@@ -13,6 +13,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [LISP](#lisp)
 * [Lua](#lua)
 * [Perl](#perl)
 * [PHP](#php)
@@ -111,6 +112,7 @@
 ### JavaScript
 
 * [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [JavaScript Frameworks/Bibliotecas e Livros](javascript-frameworks-resources-pt_BR.md)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 
@@ -118,6 +120,11 @@
 ### LaTeX
 
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
+
+
+### LISP
+
+* [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
 
 
 ### Lua
@@ -136,7 +143,6 @@
 * [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
-* [Laravel - O Framework PHP para os Artesãos da Web](http://laravel.artesaos.org)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 
 
